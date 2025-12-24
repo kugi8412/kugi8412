@@ -5,11 +5,12 @@
 Githuib's portfolio.
 
 -->
+
 # 🎓 About Me:
-My name is Jakub Giezgała and I am a student of Bioinformatics and Systems Biology at the University of Warsaw. I am passionate about science, with a keen desire for continuous self-improvement. I am currently working on my bachelor's thesis, which focuses on the application of deep learning in biological sciences.
+My name is Jakub Giezgała and I am a student of Bioinformatics and Systems Biology at the University of Warsaw. I am passionate about science, with a keen desire for continuous self-improvement. I am currently working on my master's thesis, which focuses on the application of deep learning in biological sciences.
 What fascinates me most is how all living things are built from simple sequences of nucleotides 🧬. Outside of academia, my favourite hobby is playing board games 🎲 - anytime and anywhere.
 
-- 🔭 Currently, I am learning about the application of convolutional neural networks for predictive enhancers.
+- 🔭 I am currently learning about the application of various deep learning architectures in predicting enhancer expression levels.
 - 😺 Fun fact: You don't own a cat, you're just temporarily obliged to feed it.
 
 # 💻 Tech Skills:
